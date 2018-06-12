@@ -1,6 +1,11 @@
 **[Abstract](#abstract)** |
 **[License](#license)** 
 
+[![Packagist](https://img.shields.io/packagist/l/doctrine/orm.svg)](#license)
+[![Packagist](https://img.shields.io/badge/author-avimago-green.svg)](https://github.com/magoavi)
+[![Packagist](https://img.shields.io/badge/website-dmgb2-brightgreen.svg)](http://dmgb2.weebly.com/)
+
+
 # ![alt text](https://raw.githubusercontent.com/magoavi/google-analytics/master/google-analytics.jpg)
 
 > Introduction to Google Analytics and A/B Testing
