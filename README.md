@@ -3,7 +3,7 @@
 
 > Introduction to Google Analytics and A/B Testing
 
-**Abstract**
+#### Abstract
 
 This report explores the google analytics by hosting a website on `Weebly.com`. Social media promotion along with google adwords paid search were used to attract traffic.
 
@@ -15,7 +15,7 @@ This report explores the google analytics by hosting a website on `Weebly.com`. 
 
 ---
 
-**License**
+#### License
 
 GNU GENERAL PUBLIC LICENSE
 
