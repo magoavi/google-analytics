@@ -1,6 +1,8 @@
 **[Abstract](#abstract)** |
 **[License](#license)** 
 
+# ![alt text](https://raw.githubusercontent.com/magoavi/google-analytics/master/google-analytics.jpg)
+
 > Introduction to Google Analytics and A/B Testing
 
 #### Abstract
