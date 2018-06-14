@@ -1,7 +1,7 @@
 **[Abstract](#abstract)** |
 **[License](#license)** 
 
-[![Packagist](https://img.shields.io/packagist/l/doctrine/orm.svg)](#license)
+[![Packagist](https://img.shields.io/badge/license-GNU%20GPL-blue.svg)](#license)
 [![Packagist](https://img.shields.io/badge/author-avimago-green.svg)](https://github.com/magoavi)
 [![Packagist](https://img.shields.io/badge/website-dmgb2-brightgreen.svg)](http://dmgb2.weebly.com/)
 
